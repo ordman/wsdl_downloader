@@ -1,0 +1,21 @@
+{
+    "name": "ordman/wsdl_downloader",
+    "autoload": {
+        "psr-4": {
+            "Ordman\\WsdlDownloader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Otkidyshev",
+            "email": "dev@ordman.ru"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.3"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
