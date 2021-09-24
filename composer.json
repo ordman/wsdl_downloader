@@ -1,5 +1,6 @@
 {
     "name": "ordman/wsdl_downloader",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Ordman\\WsdlDownloader\\": "src/"
@@ -16,7 +17,7 @@
         "monolog/monolog": "^2.3"
     }
     ,
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require-dev": {
         "roave/security-advisories": "dev-latest"
     }
